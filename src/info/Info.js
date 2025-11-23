@@ -36,7 +36,7 @@ export const info = {
     miniBio: [ // these are just some "tidbits" about yourself. You can look at mine https://paytonjewell.github.io/#/ for an example if you'd like
         {
             emoji: '🕺',
-            text: 'socialy fueled by dancing'
+            text: 'socially fueled by dancing'
         },
         {
             emoji: '🌎',
@@ -76,7 +76,7 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm Victor. I'm apprentice student at Télécom Sudparis. I also studied at the IUT of Montpellier, I enjoy swing dance, and I believe computer networking is the foundation of all our future technologies. I'm currently looking for a company for my apprenticeship.",
+    bio: "Hello! I'm Victor. I'm an apprentice student at Télécom SudParis. I also studied at the IUT of Montpellier, I enjoy swing dance, and I believe computer networking is the foundation of all our future technologies. I'm currently looking for a company for my apprenticeship.",
     skills:
         {
             proficientWith: ['web', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
